@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "5875855_bacteria_diagnosis_disease_infect_spread_icon~universal@1x.png",
+      "scale" : "1x",
+      "idiom" : "universal"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x",
+      "filename" : "5875855_bacteria_diagnosis_disease_infect_spread_icon~universal@2x.png"
+    },
+    {
+      "scale" : "3x",
+      "idiom" : "universal",
+      "filename" : "5875855_bacteria_diagnosis_disease_infect_spread_icon~universal@3x.png"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+}
